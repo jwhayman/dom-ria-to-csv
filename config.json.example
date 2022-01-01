@@ -1,0 +1,12 @@
+{
+  "apiKey": "YOUR_DOM_RIA_API_KEY",
+  "searchParams": {
+    "category": 4,
+    "operation_type": 3,
+    "realty_type": 5,
+    "state_id": 10,
+    "city_id": 10,
+    "market": 3,
+    "ch": "235_t_50000,242_239,246_244"
+  }
+}

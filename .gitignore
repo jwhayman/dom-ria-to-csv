@@ -1,0 +1,6 @@
+config.json
+*.csv
+node_modules
+app.js
+.idea
+yarn.lock
